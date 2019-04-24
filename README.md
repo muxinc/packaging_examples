@@ -51,3 +51,7 @@ TOTALS: size 57043336, overhead 6.24%
 # I just want to be awesome in space!
 Tears of Steel is licensed as Creative Commons Attribution 3.0
 https://mango.blender.org
+
+
+These tools make use of the execlent "Json for Modern C++"
+Licensed under MIT and available at https://github.com/nlohmann/json
